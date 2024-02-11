@@ -98,3 +98,14 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.email {
+  margin-top: 50px;
+}
+.distance {
+  margin-bottom: 50px;
+}
+@media (max-width: 575px) {
+  .container {
+    max-width: 530px;
+  }
+}
