@@ -104,7 +104,6 @@ p {
 .distance {
   margin-bottom: 50px;
 }
-
 @media (max-width: 576px) {
   .project-link {
     display: block;
